@@ -1,0 +1,3 @@
+commands: find / -readable -user bandit7 -group bandit6 -size 33c
+
+password: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs

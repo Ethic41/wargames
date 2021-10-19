@@ -1,0 +1,3 @@
+commands: cat data.txt | base64 -d
+
+password: IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR

@@ -1,0 +1,3 @@
+commands: find -L -not -executable -size 1033c
+
+password: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
