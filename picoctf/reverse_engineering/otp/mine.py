@@ -7,6 +7,10 @@
 # @Version : 1.0.0
 
 
+# how to use:
+# open the program in gdb, (gdb -q otp)
+# then run (source mine.py)
+
 import gdb # type: ignore
 
 
