@@ -1,0 +1,13 @@
+{
+    "name": "live-art",
+    "scripts": {
+        "prepare-artifacts": "node scripts/prepare-artifacts.js"
+    },
+    "workspaces": [
+        "client",
+        "server"
+    ],
+    "dependencies": {
+        "express": "^4.17.3"
+    }
+}
